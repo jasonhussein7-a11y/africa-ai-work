@@ -7,15 +7,18 @@
   "availability": {
     "basis": "reported",
     "default": "unclear",
-    "yes": [],
+    "yes": ["KE"],
     "no": [],
     "unclear": [],
+    "country_evidence": {
+      "KE": {"basis": "official", "title": "TELUS Digital AI Community: Personalized Internet Assessor, Kenya", "url": "https://app.telusinternational.ai/contributor/jobs/available/129385", "checked": "2026-09-30", "note": "TELUS lists an Internet Assessor role for Kenya starting 23 September 2026. It requires living in Kenya for the last 5 years, plus a smartphone and a personal computer."}
+    },
     "source": {
       "title": "TELUS Digital AI Community company description",
       "url": "https://europeanjobdays.eu/en/node/512567",
       "checked": "2026-09-29"
     },
-    "note": "TELUS Digital describes a global AI Community but publishes no country list we could find. Every African country is unclear until checked on a live job listing."
+    "note": "TELUS Digital describes a global AI Community but publishes no country list we could find. Kenya is marked accepted from a live TELUS job listing. Other African countries are unclear until checked on a live listing."
   },
   "sections": [
     {

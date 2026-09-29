@@ -7,16 +7,19 @@
   "availability": {
     "basis": "reported",
     "default": "unclear",
-    "yes": [],
+    "yes": ["KE"],
     "no": [],
     "unclear": [],
+    "country_evidence": {
+      "KE": {"basis": "reported", "title": "Tech-ish: What AI tutors and trainers in Kenya and Africa are facing (2025)", "url": "https://tech-ish.com/2025/08/29/what-ai-tutors-and-trainers-kenya-africa-are-facing/", "checked": "2026-09-30", "note": "A 2025 investigation by the Kenyan outlet Tech-ish interviewed Mindrift AI trainers working in Kenya."}
+    },
     "account_opened": ["KE"],
     "source": {
       "title": "Mindrift job listing text (eligibility is set per listing)",
       "url": "https://www.whynotremote.com/jobs/english-ai-trainer-writers-c98a8c13",
       "checked": "2026-09-29"
     },
-    "note": "Mindrift publishes no general country list. Each job listing names the country it is open to, and only people living there can apply. A worker in Kenya was able to open an account, but has not yet been paid, so Kenya is not confirmed."
+    "note": "Mindrift publishes no general country list. Each job listing names the country it is open to, and only people living there can apply. Kenya is marked accepted based on reporting on Mindrift workers there."
   },
   "sections": [
     {

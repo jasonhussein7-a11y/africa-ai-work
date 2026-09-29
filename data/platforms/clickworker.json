@@ -7,15 +7,18 @@
   "availability": {
     "basis": "reported",
     "default": "unclear",
-    "yes": [],
+    "yes": ["KE"],
     "no": [],
     "unclear": [],
+    "country_evidence": {
+      "KE": {"basis": "reported", "title": "Sure Media Magazine: online earning platforms tested from Kenya (May 2026)", "url": "https://suremediamagazine.com/2026/05/04/top-5-online-earning-platforms-for-kenyans-in-2026/", "checked": "2026-09-30", "note": "A Kenyan writer who tested Clickworker in 2026 reported earning on it, and Kenya-based workers report pay on Glassdoor. Clickworker sometimes pauses sign-ups in a country when it has enough workers."}
+    },
     "source": {
       "title": "Clickworker crowd page",
       "url": "https://clickworker.com/clickworker-crowd",
       "checked": "2026-09-29"
     },
-    "note": "Clickworker describes a worldwide crowd but publishes no country list we could find, so every African country is unclear. Reviewers say the amount of work depends heavily on where you live."
+    "note": "Clickworker describes a worldwide crowd but publishes no country list we could find, so most African countries are unclear. Kenya is marked accepted based on reports from workers there. Reviewers say the amount of work depends heavily on where you live."
   },
   "sections": [
     {

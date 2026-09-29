@@ -7,16 +7,19 @@
   "availability": {
     "basis": "reported",
     "default": "unclear",
-    "yes": [],
+    "yes": ["KE"],
     "no": [],
     "unclear": [],
+    "country_evidence": {
+      "KE": {"basis": "reported", "title": "RemoWork: CrowdGen review with payout history (July 2026)", "url": "https://remowork.life/blog/crowdgen-by-appen-review-is-it-legit-pay-rates-and-how-it-works", "checked": "2026-09-30", "note": "A July 2026 review showed completed payouts on a Kenya project at 2.20 US dollars an hour. Rates are set by country and are much lower in Kenya than in the US."}
+    },
     "account_opened": ["KE"],
     "source": {
       "title": "RemoWork: 33 AI training platforms that pay (eligibility overview)",
       "url": "https://remowork.life/blog/top-ai-training-platforms-that-pay-you-to-train-ai-models-in-2026",
       "checked": "2026-09-29"
     },
-    "note": "CrowdGen is reported to be open in over 200 countries, but it publishes no list we could verify, so all African countries are unclear. A worker in Kenya was able to open an account, but has not yet been paid, so Kenya is not confirmed. Many projects are limited to people living in one specific country."
+    "note": "CrowdGen is reported to be open in over 200 countries, but it publishes no list we could verify, so most African countries are unclear. Kenya is marked accepted based on a review showing payouts on a Kenya project. Many projects are limited to people living in one specific country."
   },
   "sections": [
     {

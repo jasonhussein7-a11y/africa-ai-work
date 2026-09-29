@@ -1,22 +1,25 @@
 {
   "id": "oneforma",
   "name": "OneForma",
-  "operator": "OneForma",
+  "operator": "Centific (formerly Pactera EDGE)",
   "website": "https://www.oneforma.com",
   "work": "Language and data projects: transcription, translation, audio and text annotation, search evaluation and UHRS tasks.",
   "availability": {
     "basis": "reported",
     "default": "unclear",
-    "yes": [],
+    "yes": ["KE"],
     "no": [],
     "unclear": [],
+    "country_evidence": {
+      "KE": {"basis": "reported", "title": "RemoWork: OneForma review with dashboard screenshots (August 2026)", "url": "https://remowork.life/blog/oneforma-review-is-it-legit-pay-rates-and-how-it-works", "checked": "2026-09-30", "note": "An August 2026 review showed English to Swahili and English to Masai roles on its dashboard. One Swahili application was still in certification after more than two months, so approval can be slow."}
+    },
     "account_opened": ["KE"],
     "source": {
       "title": "OneForma Help Center: payment methods",
       "url": "https://www.oneforma.com/help-center/project-help/how-to-set-up-payoneer-payment-method-on-oneforma/",
       "checked": "2026-09-29"
     },
-    "note": "OneForma publishes no country list we could find. A worker in Kenya was able to open an account, but has not yet been paid, so Kenya is not confirmed."
+    "note": "OneForma publishes no country list we could find. Kenya is marked accepted based on a review showing Kenyan language projects."
   },
   "sections": [
     {
@@ -32,6 +35,12 @@
         {"text": "For UHRS jobs, Payoneer must be your default payment method, and one Payoneer account can only be linked to one OneForma user.", "basis": "official", "source": "https://www.oneforma.com/help-center/project-help/how-to-set-up-payoneer-payment-method-on-oneforma/"},
         {"text": "No invoice is generated in a month where you earn less than 10 US dollars. The balance carries over until it reaches that amount.", "basis": "official", "source": "https://www.oneforma.com/?p=176804"},
         {"text": "International transfers and currency exchange can add extra fees.", "basis": "official", "source": "https://www.oneforma.com/?p=176804"}
+      ]
+    },
+    {
+      "title": "Good to know",
+      "items": [
+        {"text": "OneForma is owned by Centific, formerly known as Pactera EDGE.", "basis": "reported", "source": "https://remowork.life/blog/oneforma-review-is-it-legit-pay-rates-and-how-it-works"}
       ]
     }
   ]

@@ -1,0 +1,37 @@
+{
+  "id": "prolific",
+  "name": "Prolific",
+  "operator": "Prolific",
+  "website": "https://www.prolific.com",
+  "work": "Paid online research studies and surveys, including some AI evaluation studies.",
+  "availability": {
+    "basis": "official",
+    "default": "no",
+    "yes": [],
+    "no": [],
+    "unclear": ["ZA"],
+    "source": {
+      "title": "Prolific Help: Who can participate in studies on Prolific?",
+      "url": "https://participant-help.prolific.com/en/article/628d72",
+      "checked": "2026-09-29"
+    },
+    "note": "Prolific's participant help page lists no African country. Its researcher help page does list South Africa, so South Africa is marked unclear until the two pages agree. Everyone else can only join a waitlist."
+  },
+  "sections": [
+    {
+      "title": "Requirements",
+      "items": [
+        {"text": "You must be over 18 and create and verify an account.", "basis": "official", "source": "https://participant-help.prolific.com/en/article/628d72"},
+        {"text": "Eligibility depends on where you live, not your nationality. People from unsupported countries can join if they live in a supported one.", "basis": "official", "source": "https://participant-help.prolific.com/en/article/628d72"},
+        {"text": "If your country is not supported you can join a waitlist, but access is not guaranteed.", "basis": "official", "source": "https://participant-help.prolific.com/en/article/628d72"}
+      ]
+    },
+    {
+      "title": "Conflicting information",
+      "items": [
+        {"text": "The researcher help page lists South Africa as supported, but the participant help page does not.", "basis": "official", "source": "https://researcher-help.prolific.com/en/article/2bb2f4"},
+        {"text": "Some blogs claim Prolific accepts Kenya, Nigeria and Egypt. Prolific's own pages do not list them.", "basis": "note"}
+      ]
+    }
+  ]
+}

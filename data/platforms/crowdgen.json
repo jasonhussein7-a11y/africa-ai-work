@@ -1,0 +1,42 @@
+{
+  "id": "crowdgen",
+  "name": "CrowdGen",
+  "operator": "Appen",
+  "website": "https://crowdgen.com",
+  "work": "AI data tasks that mostly need no technical background: rating, data collection, recordings, search evaluation and language projects.",
+  "availability": {
+    "basis": "reported",
+    "default": "unclear",
+    "yes": ["KE"],
+    "no": [],
+    "unclear": [],
+    "worker_confirmed_yes": ["KE"],
+    "source": {
+      "title": "RemoWork: 33 AI training platforms that pay (eligibility overview)",
+      "url": "https://remowork.life/blog/top-ai-training-platforms-that-pay-you-to-train-ai-models-in-2026",
+      "checked": "2026-09-29"
+    },
+    "note": "CrowdGen is reported to be open in over 200 countries, but it publishes no list we could verify, so most African countries are unclear. Kenya is confirmed by a worker based there. Many projects are limited to people living in one specific country."
+  },
+  "sections": [
+    {
+      "title": "Requirements",
+      "items": [
+        {"text": "Individual projects often require you to live in a specific country and speak a specific language.", "basis": "reported", "source": "https://simplify.jobs/p/5a4bddb0-823a-4bb6-95ea-a227dc5a700c/Video-Collector"}
+      ]
+    },
+    {
+      "title": "Pay and payments",
+      "items": [
+        {"text": "Workers report being paid through PayPal and Payoneer.", "basis": "reported", "source": "https://reddit.birdcat.cafe/r/CrowdGen/comments/1hrf8pm/payooner_tab_in_blank"},
+        {"text": "A Payoneer account used on the older Appen platform may need to be linked to your CrowdGen account.", "basis": "reported", "source": "https://reddit.birdcat.cafe/r/CrowdGen/comments/1hrf8pm/payooner_tab_in_blank"}
+      ]
+    },
+    {
+      "title": "Safety",
+      "items": [
+        {"text": "CrowdGen is the new name for Appen's contributor platform. Check you are on the real crowdgen.com site before entering any details.", "basis": "note"}
+      ]
+    }
+  ]
+}

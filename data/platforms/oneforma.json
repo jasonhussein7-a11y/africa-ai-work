@@ -1,0 +1,38 @@
+{
+  "id": "oneforma",
+  "name": "OneForma",
+  "operator": "OneForma",
+  "website": "https://www.oneforma.com",
+  "work": "Language and data projects: transcription, translation, audio and text annotation, search evaluation and UHRS tasks.",
+  "availability": {
+    "basis": "reported",
+    "default": "unclear",
+    "yes": [],
+    "no": [],
+    "unclear": [],
+    "account_opened": ["KE"],
+    "source": {
+      "title": "OneForma Help Center: payment methods",
+      "url": "https://www.oneforma.com/help-center/project-help/how-to-set-up-payoneer-payment-method-on-oneforma/",
+      "checked": "2026-09-29"
+    },
+    "note": "OneForma publishes no country list we could find. A worker in Kenya was able to open an account, but has not yet been paid, so Kenya is not confirmed."
+  },
+  "sections": [
+    {
+      "title": "Requirements",
+      "items": [
+        {"text": "You must set up a payment method and upload a tax form before starting any paid work. Non-US residents use the W-8BEN form.", "basis": "official", "source": "https://www.oneforma.com/?p=176804"}
+      ]
+    },
+    {
+      "title": "Pay and payments",
+      "items": [
+        {"text": "Three payout options: Payoneer (recommended, no cap, monthly), PayPal (only up to 300 US dollars a year) and Tipalti.", "basis": "official", "source": "https://www.oneforma.com/help-center/project-help/how-to-set-up-payoneer-payment-method-on-oneforma/"},
+        {"text": "For UHRS jobs, Payoneer must be your default payment method, and one Payoneer account can only be linked to one OneForma user.", "basis": "official", "source": "https://www.oneforma.com/help-center/project-help/how-to-set-up-payoneer-payment-method-on-oneforma/"},
+        {"text": "No invoice is generated in a month where you earn less than 10 US dollars. The balance carries over until it reaches that amount.", "basis": "official", "source": "https://www.oneforma.com/?p=176804"},
+        {"text": "International transfers and currency exchange can add extra fees.", "basis": "official", "source": "https://www.oneforma.com/?p=176804"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "remotasks",
+  "name": "Remotasks",
+  "operator": "Scale AI",
+  "website": "https://www.remotasks.com",
+  "work": "Image and video labelling, LiDAR annotation, copywriting and AI training tasks.",
+  "availability": {
+    "basis": "reported",
+    "default": "unclear",
+    "yes": [],
+    "no": ["KE", "NG"],
+    "unclear": [],
+    "source": {
+      "title": "Rest of World: Scale AI's Remotasks cut off workers (2024)",
+      "url": "https://restofworld.org/2024/scale-ai-remotasks-banned-workers/",
+      "checked": "2026-09-29"
+    },
+    "note": "Remotasks shut down entirely in Kenya and Nigeria in March 2024. It publishes no list of where it still operates, so every other African country is unclear."
+  },
+  "sections": [
+    {
+      "title": "What happened",
+      "items": [
+        {"text": "Remotasks shut down in Kenya, Nigeria and Pakistan in early 2024 and stopped new sign-ups in some other countries.", "basis": "reported", "source": "https://restofworld.org/2024/scale-ai-remotasks-banned-workers/"},
+        {"text": "Kenyan users were told operations ended on 8 March 2024 and were off-boarded from their projects, with a promise that completed work would be paid.", "basis": "reported", "source": "https://www.businessdailyafrica.com/bd/corporate/technology/online-gig-site-remotasks-exits-kenya-4555340"},
+        {"text": "Scale AI said the notice meant for Kenyan workers was not received because of operational errors, so many were cut off without warning.", "basis": "reported", "source": "https://restofworld.org/2024/scale-ai-remotasks-banned-workers/"}
+      ]
+    },
+    {
+      "title": "Pay and payments",
+      "items": [
+        {"text": "In 2024 Remotasks paid per accepted task through PayPal, weekly on Thursdays.", "basis": "reported", "source": "https://www.businessdailyafrica.com/bd/corporate/technology/online-gig-site-remotasks-exits-kenya-4555340"}
+      ]
+    },
+    {
+      "title": "Safety",
+      "items": [
+        {"text": "Some websites still list Remotasks as open to Kenya and Nigeria. That information is out of date.", "basis": "note"},
+        {"text": "Anyone selling Remotasks access in Kenya or Nigeria is selling something the platform does not offer there.", "basis": "note"}
+      ]
+    }
+  ]
+}

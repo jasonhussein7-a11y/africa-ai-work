@@ -1,0 +1,41 @@
+{
+  "id": "mercor",
+  "name": "Mercor",
+  "operator": "Mercor",
+  "website": "https://www.mercor.com",
+  "work": "Expert contract work for AI labs: evaluating and writing AI training data in fields like software, law, medicine, finance and languages.",
+  "availability": {
+    "basis": "official",
+    "default": "no",
+    "yes": ["DZ", "AO", "BJ", "BW", "EG", "GA", "GH", "CI", "MG", "MU", "MA", "MZ", "NA", "NG", "RW", "SN", "ZA", "TZ", "GM", "TN"],
+    "no": [],
+    "source": {
+      "title": "Mercor Supported Countries and Regions",
+      "url": "https://www.mercor.com/supported-countries/",
+      "checked": "2026-09-29"
+    },
+    "note": "Mercor says it does not engage contractors in countries outside its supported list. Each job listing can also name its own eligible countries, so check the listing too."
+  },
+  "sections": [
+    {
+      "title": "Requirements",
+      "items": [
+        {"text": "Each listing can set its own eligible countries. If a listing names none, Mercor's default is reported to be the US, Canada, the UK and the EU, but language listings are often open more widely.", "basis": "reported", "source": "https://ai-gig-radar.com/posts/mercor-eligible-countries/"},
+        {"text": "Applying involves an AI interview, and one interview is reused across listings.", "basis": "reported", "source": "https://ai-gig-radar.com/posts/mercor-eligible-countries/"}
+      ]
+    },
+    {
+      "title": "Pay and payments",
+      "items": [
+        {"text": "Stripe is reported to be the main payout method, with Wise used in a few countries. PayPal is reported not to be offered.", "basis": "reported", "source": "https://ai-gig-radar.com/posts/mercor-eligible-countries/"},
+        {"text": "Top rates for expert work are reported to be higher than on many similar platforms.", "basis": "reported", "source": "https://talentsforai.com/blog/is-outlier-ai-legit/"}
+      ]
+    },
+    {
+      "title": "Safety",
+      "items": [
+        {"text": "Old copies of Mercor's country list still circulate online and include countries the live page no longer lists. Always check the live page before applying.", "basis": "note"}
+      ]
+    }
+  ]
+}

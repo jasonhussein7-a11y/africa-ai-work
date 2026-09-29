@@ -1,0 +1,43 @@
+{
+  "id": "toloka",
+  "name": "Toloka",
+  "operator": "Toloka AI",
+  "website": "https://toloka.ai",
+  "work": "Short microtasks that need no special knowledge, such as checking search results or business details, plus field tasks at real locations.",
+  "availability": {
+    "basis": "reported",
+    "default": "unclear",
+    "yes": ["NG", "KE", "ZA", "GH", "CI"],
+    "no": [],
+    "unclear": [],
+    "source": {
+      "title": "Connecting Africa: Toloka accelerates push into Africa",
+      "url": "https://connectingafrica.com/emerging-technology/crowdsourcing-platform-toloka-accelerates-push-into-africa",
+      "checked": "2026-09-29"
+    },
+    "note": "An article reported workers in 44 African countries, with the most in Nigeria, Kenya, South Africa, Ghana and Cote d'Ivoire. The article is undated and names only those five, so they are marked as reported and all others are unclear."
+  },
+  "sections": [
+    {
+      "title": "Requirements",
+      "items": [
+        {"text": "You must be over 18.", "basis": "official", "source": "https://apps.apple.com/app/id1282350367"},
+        {"text": "Tasks need no special knowledge. Higher skill levels unlock more tasks.", "basis": "official", "source": "https://apps.apple.com/app/id1282350367"}
+      ]
+    },
+    {
+      "title": "Pay and payments",
+      "items": [
+        {"text": "Earnings are credited in US dollars once the requester accepts your task.", "basis": "official", "source": "https://apps.apple.com/app/id1282350367"},
+        {"text": "Withdrawal to Payoneer has a 2 percent fee and a 20 US dollar minimum. Payoneer also charges 1 US dollar for each Toloka payment it receives.", "basis": "official", "source": "https://join.toloka.ai/en/docs/ios/pay/payoneer/"},
+        {"text": "Transfers usually take a few hours or days, but can take up to 30 days.", "basis": "official", "source": "https://join.toloka.ai/en/docs/ios/pay/payoneer/"}
+      ]
+    },
+    {
+      "title": "Good to know",
+      "items": [
+        {"text": "Toloka is also the company behind Mindrift, which is its separate platform for expert AI training work.", "basis": "official", "source": "https://mindrift.ai/about"}
+      ]
+    }
+  ]
+}

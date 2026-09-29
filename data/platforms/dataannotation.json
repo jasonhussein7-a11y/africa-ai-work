@@ -1,0 +1,47 @@
+{
+  "id": "dataannotation",
+  "name": "DataAnnotation",
+  "operator": "DataAnnotation",
+  "website": "https://www.dataannotation.tech",
+  "work": "Chatbot training, rating and writing AI responses, coding tasks and expert projects.",
+  "availability": {
+    "basis": "reported",
+    "default": "no",
+    "yes": [],
+    "no": [],
+    "unclear": [],
+    "source": {
+      "title": "DataAnnotation job listing text (country list in the listing)",
+      "url": "https://devjobs.de/job/b29cd355ac925e59a9e398d91b7ec500",
+      "checked": "2026-09-29"
+    },
+    "note": "DataAnnotation's own job listings name the countries where work is available, and none of them are in Africa. The listings say people outside those countries will not see work or assessments. Some blogs claim it accepts most African countries. That does not match DataAnnotation's own wording."
+  },
+  "sections": [
+    {
+      "title": "Countries listed",
+      "items": [
+        {"text": "Recent listings name the US, Canada, the UK, Ireland, Australia, New Zealand, the Netherlands, Germany, Denmark, Norway, Sweden, Poland, Romania, Ukraine, Argentina, Brazil, India and the Philippines.", "basis": "reported", "source": "https://devjobs.de/job/b29cd355ac925e59a9e398d91b7ec500"}
+      ]
+    },
+    {
+      "title": "Onboarding",
+      "items": [
+        {"text": "After signing up you take a short assessment. If you pass, you get an email and paid work appears on the platform.", "basis": "reported", "source": "https://devjobs.de/job/b29cd355ac925e59a9e398d91b7ec500"}
+      ]
+    },
+    {
+      "title": "Pay and payments",
+      "items": [
+        {"text": "Projects are paid hourly through PayPal, which handles currency conversion from US dollars.", "basis": "reported", "source": "https://devjobs.de/job/b29cd355ac925e59a9e398d91b7ec500"}
+      ]
+    },
+    {
+      "title": "Safety",
+      "items": [
+        {"text": "DataAnnotation says it will never ask you for money.", "basis": "reported", "source": "https://devjobs.de/job/b29cd355ac925e59a9e398d91b7ec500"},
+        {"text": "Fake sites copy popular platforms. Check you are on the real dataannotation.tech site.", "basis": "reported", "source": "https://www.progigfinder.com/blog/dataannotation-jobs-in-africa-how-to-get-hired-for-ai-training-work-in-2026"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "clickworker",
+  "name": "Clickworker",
+  "operator": "clickworker.com Inc.",
+  "website": "https://www.clickworker.com",
+  "work": "Microtasks such as labelling images, categorising short texts, rating AI output, checking search results and product listings, and app-based photo tasks.",
+  "availability": {
+    "basis": "reported",
+    "default": "unclear",
+    "yes": [],
+    "no": [],
+    "unclear": [],
+    "source": {
+      "title": "Clickworker crowd page",
+      "url": "https://clickworker.com/clickworker-crowd",
+      "checked": "2026-09-29"
+    },
+    "note": "Clickworker describes a worldwide crowd but publishes no country list we could find, so every African country is unclear. Reviewers say the amount of work depends heavily on where you live."
+  },
+  "sections": [
+    {
+      "title": "Onboarding",
+      "items": [
+        {"text": "After registering you fill in your profile and take short qualification tests, which decide which jobs you can do.", "basis": "reported", "source": "https://reviewindex.mataroa.blog/blog/clickworker-review-are-the-jobs-on-this-app-worth-it"}
+      ]
+    },
+    {
+      "title": "Pay and payments",
+      "items": [
+        {"text": "Clickworker says it does not set pay for country-specific projects below that country's minimum wage.", "basis": "official", "source": "https://clickworker.com/clickworker-crowd"},
+        {"text": "Payout options are reported to include PayPal, Payoneer, Airtm, ACH and SEPA, paid weekly, with a minimum of about 10 US dollars for PayPal and about 20 for Payoneer.", "basis": "reported", "source": "https://remoteonlineevaluator.com/how-appen-prolific-outlier-ai-pay-you-methods-fees/"},
+        {"text": "Reviewers note that M-Pesa and local bank accounts are not offered.", "basis": "reported", "source": "https://joinsecret.com/clickworker/reviews?page=2"}
+      ]
+    },
+    {
+      "title": "Known problems",
+      "items": [
+        {"text": "Work is sometimes rejected without explanation.", "basis": "reported", "source": "https://joinsecret.com/clickworker/reviews?page=2"},
+        {"text": "Earnings are low and in regions with fewer jobs you may spend more time waiting than working.", "basis": "reported", "source": "https://reviewindex.mataroa.blog/blog/clickworker-review-are-the-jobs-on-this-app-worth-it"}
+      ]
+    }
+  ]
+}

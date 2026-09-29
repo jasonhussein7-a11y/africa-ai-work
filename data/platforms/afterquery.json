@@ -1,0 +1,42 @@
+{
+  "id": "afterquery",
+  "name": "AfterQuery",
+  "operator": "AfterQuery",
+  "website": "https://community.afterquery.com",
+  "work": "Expert contract work: writing realistic scenarios and reference answers for AI evaluations, and grading AI output in your professional field.",
+  "availability": {
+    "basis": "reported",
+    "default": "unclear",
+    "yes": ["KE"],
+    "no": [],
+    "unclear": [],
+    "account_opened": ["KE"],
+    "source": {
+      "title": "RemoWork: how AI training platforms pay (AfterQuery Stripe payout to Kenya)",
+      "url": "https://remowork.life/blog/how-to-actually-get-paid-ai-training-payment-methods-2026",
+      "checked": "2026-09-29"
+    },
+    "note": "AfterQuery publishes no country list we could find. A reviewer documented being paid in Kenya, and a worker in Kenya was able to open an account. Some listings are limited to specific countries such as the United States. Other African countries are unclear."
+  },
+  "sections": [
+    {
+      "title": "Requirements",
+      "items": [
+        {"text": "Contributors work as independent contractors, not employees, and pay is tied to the quality and quantity of completed work.", "basis": "official", "source": "https://docs.afterquery.com/articles/about/contract-work"},
+        {"text": "Listings ask for fluent written and spoken English and a reliable internet connection. Some are limited to one country.", "basis": "reported", "source": "https://aitrainer.work/jobs/afterquery/notary-public-expert"}
+      ]
+    },
+    {
+      "title": "Onboarding",
+      "items": [
+        {"text": "Applications are reviewed against a rubric. You may be asked to take a written assessment, then you sign a contractor agreement, connect Stripe and are matched to work, usually within a week.", "basis": "reported", "source": "https://aitrainer.work/jobs/afterquery/statistician-experimentation-expert"}
+      ]
+    },
+    {
+      "title": "Pay and payments",
+      "items": [
+        {"text": "Payouts go through Stripe. A reviewer documented Stripe payouts to Kenya.", "basis": "reported", "source": "https://remowork.life/blog/how-to-actually-get-paid-ai-training-payment-methods-2026"}
+      ]
+    }
+  ]
+}

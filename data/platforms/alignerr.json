@@ -1,0 +1,51 @@
+{
+  "id": "alignerr",
+  "name": "Alignerr",
+  "operator": "Labelbox",
+  "website": "https://www.alignerr.com",
+  "work": "Comparing AI responses, writing prompts, transcription, video annotation, and writing expert evaluation tasks.",
+  "availability": {
+    "basis": "reported",
+    "default": "unclear",
+    "yes": [],
+    "no": ["BI", "CF", "CG", "CD", "ER", "GN", "GW", "LR", "LY", "SO", "SS", "SD", "KE", "ET"],
+    "unclear": [],
+    "worker_confirmed_no": ["KE"],
+    "source": {
+      "title": "RemoWork Alignerr review (staff list of blocked countries, plus Kenya reports)",
+      "url": "https://remowork.life/blog/alignerr-review-is-it-legit-pay-rates-and-how-to-get-in",
+      "checked": "2026-09-29"
+    },
+    "note": "Alignerr publishes no official country list. The blocked countries come from an older staff reply that has since grown. Kenya and Ethiopia applicants now report a Location Denied screen. Every other African country is unclear."
+  },
+  "sections": [
+    {
+      "title": "Requirements",
+      "items": [
+        {"text": "Identity verification is reported to accept only US documents, which is a barrier for applicants elsewhere.", "basis": "reported", "source": "https://remowork.life/blog/alignerr-review-is-it-legit-pay-rates-and-how-to-get-in"},
+        {"text": "Screening includes an interview with an AI interviewer.", "basis": "reported", "source": "https://www.trustpilot.com/review/www.alignerr.com"},
+        {"text": "An Ethiopian applicant reported a Location Denied screen on 26 September 2026, with no explanation of which countries are supported.", "basis": "reported", "source": "https://www.trustpilot.com/review/www.alignerr.com"}
+      ]
+    },
+    {
+      "title": "Pay and payments",
+      "items": [
+        {"text": "Pay periods run Monday to Sunday, paid by the following Friday, through Stripe Connect or PayPal. You can only use the method shown on your dashboard.", "basis": "reported", "source": "https://remowork.life/blog/alignerr-review-is-it-legit-pay-rates-and-how-to-get-in"},
+        {"text": "Entry-level listings are reported around 20 to 50 US dollars an hour. Rates above 60 are for specific professions such as software or engineering.", "basis": "reported", "source": "https://annotation.academy/blog/is-alignerr-legit"}
+      ]
+    },
+    {
+      "title": "Known problems",
+      "items": [
+        {"text": "Pay terms are set per project, and some projects only pay for work a reviewer accepts, so hours can go unpaid.", "basis": "reported", "source": "https://remowork.life/blog/alignerr-review-is-it-legit-pay-rates-and-how-to-get-in"},
+        {"text": "Some applicants report accounts removed after the assessment with little explanation.", "basis": "reported", "source": "https://www.trustpilot.com/review/www.alignerr.com"}
+      ]
+    },
+    {
+      "title": "Safety",
+      "items": [
+        {"text": "Check that you can reach the site from your country before spending time on an application.", "basis": "note"}
+      ]
+    }
+  ]
+}

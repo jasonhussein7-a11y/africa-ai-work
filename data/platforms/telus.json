@@ -1,0 +1,40 @@
+{
+  "id": "telus",
+  "name": "TELUS Digital AI Community",
+  "operator": "TELUS Digital",
+  "website": "https://www.telusdigital.com",
+  "work": "Search and map evaluation, transcription, content review and language data work across many languages.",
+  "availability": {
+    "basis": "reported",
+    "default": "unclear",
+    "yes": [],
+    "no": [],
+    "unclear": [],
+    "source": {
+      "title": "TELUS Digital AI Community company description",
+      "url": "https://europeanjobdays.eu/en/node/512567",
+      "checked": "2026-09-29"
+    },
+    "note": "TELUS Digital describes a global AI Community but publishes no country list we could find. Every African country is unclear until checked on a live job listing."
+  },
+  "sections": [
+    {
+      "title": "Requirements",
+      "items": [
+        {"text": "The AI Community works across more than 500 languages and dialects, and many roles are aimed at people with strong language skills.", "basis": "official", "source": "https://europeanjobdays.eu/en/node/512567"}
+      ]
+    },
+    {
+      "title": "Types of work",
+      "items": [
+        {"text": "Reported roles include internet rater (checking search results), map data analyst, content evaluator and transcription.", "basis": "reported", "source": "https://www.theworkathomewoman.com/telus-digital-review/"}
+      ]
+    },
+    {
+      "title": "Pay and payments",
+      "items": [
+        {"text": "Pay is reported to be monthly by direct deposit, PayPal or Payoneer depending on your country, with a minimum payout of roughly 20 to 50 US dollars.", "basis": "reported", "source": "https://remoteonlineevaluator.com/how-appen-prolific-outlier-ai-pay-you-methods-fees/"}
+      ]
+    }
+  ]
+}

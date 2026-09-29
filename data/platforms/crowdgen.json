@@ -7,16 +7,16 @@
   "availability": {
     "basis": "reported",
     "default": "unclear",
-    "yes": ["KE"],
+    "yes": [],
     "no": [],
     "unclear": [],
-    "worker_confirmed_yes": ["KE"],
+    "account_opened": ["KE"],
     "source": {
       "title": "RemoWork: 33 AI training platforms that pay (eligibility overview)",
       "url": "https://remowork.life/blog/top-ai-training-platforms-that-pay-you-to-train-ai-models-in-2026",
       "checked": "2026-09-29"
     },
-    "note": "CrowdGen is reported to be open in over 200 countries, but it publishes no list we could verify, so most African countries are unclear. Kenya is confirmed by a worker based there. Many projects are limited to people living in one specific country."
+    "note": "CrowdGen is reported to be open in over 200 countries, but it publishes no list we could verify, so all African countries are unclear. A worker in Kenya was able to open an account, but has not yet been paid, so Kenya is not confirmed. Many projects are limited to people living in one specific country."
   },
   "sections": [
     {

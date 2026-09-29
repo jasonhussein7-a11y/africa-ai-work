@@ -1,0 +1,61 @@
+{
+  "id": "outlier",
+  "name": "Outlier",
+  "operator": "Scale AI",
+  "website": "https://outlier.ai",
+  "work": "Writing, rating and comparing AI responses, fact-checking, and coding or subject-expert tasks.",
+  "availability": {
+    "basis": "official",
+    "default": "no",
+    "yes": ["DZ", "CM", "EG", "MG", "MW", "MA", "ZA", "TZ"],
+    "no": [],
+    "source": {
+      "title": "Outlier Flexible Working Guidelines (effective 15 July 2026)",
+      "url": "https://outlier.ai/legal/flexible-working-guidelines",
+      "checked": "2026-09-29"
+    },
+    "note": "Outlier publishes a full list of allowed countries. Any African country not on it is not accepted. Some clients add their own location limits, so being in an accepted country does not guarantee every project."
+  },
+  "sections": [
+    {
+      "title": "Requirements",
+      "items": [
+        {"text": "At least an associate degree.", "basis": "official", "source": "https://outlier.ai/faq"},
+        {"text": "You may have to verify your identity and location with a government ID. That location becomes your Primary Location and you can only work from there.", "basis": "official", "source": "https://outlier.ai/legal/flexible-working-guidelines"},
+        {"text": "If you move country, you must update your Primary Location and may need a new ID from the new country.", "basis": "official", "source": "https://outlier.ai/legal/working-location-policy"}
+      ]
+    },
+    {
+      "title": "Onboarding",
+      "items": [
+        {"text": "You apply with your CV and skills, then wait to be matched to projects. Each project has its own onboarding test.", "basis": "reported", "source": "https://aiworkfinder.com/blog/outlier-ai-review-2026-is-it-legit-pay-rates-projects-and-what-they-dont-tell-you/"},
+        {"text": "The assessment is unpaid, usually takes 30 to 90 minutes, and ends in pass or fail with no feedback. Rushing the instructions and using AI tools to write answers are common reasons for failing.", "basis": "reported", "source": "https://laptopandcoffee.com/outlier-ai-assessment/"},
+        {"text": "Sign-up to first paid task typically takes one to two weeks. No task access two weeks after the assessment usually means you did not pass.", "basis": "reported", "source": "https://talentsforai.com/blog/is-outlier-ai-legit/"}
+      ]
+    },
+    {
+      "title": "Pay and payments",
+      "items": [
+        {"text": "Paid weekly on Tuesdays for work done Tuesday to Monday (midnight UTC), through PayPal, Airtm or ACH bank transfer.", "basis": "official", "source": "https://outlier.ai/faq"},
+        {"text": "ACH is a US bank network, so for most African workers PayPal or Airtm are the realistic options.", "basis": "note"},
+        {"text": "No fixed rate card. You see the rate before starting a project, and rates can vary by location. Some language and region projects start around 8 US dollars an hour.", "basis": "reported", "source": "https://remowork.life/blog/outlier-ai-review-a-complete-guide-to-getting-started-tasks-and-pay"},
+        {"text": "Some workers report Airtm payouts held behind extra ID checks.", "basis": "reported", "source": "https://remowork.life/blog/how-to-actually-get-paid-ai-training-payment-methods-2026"}
+      ]
+    },
+    {
+      "title": "Known problems",
+      "items": [
+        {"text": "Work comes in waves. Busy weeks can be followed by weeks with almost no tasks.", "basis": "reported", "source": "https://talentsforai.com/blog/is-outlier-ai-legit/"},
+        {"text": "Support can be slow, with replies taking a week or more.", "basis": "reported", "source": "https://careerseeker.ai/outlier-ai-review/"},
+        {"text": "Onboarding and training time is unpaid and can add up to many hours.", "basis": "reported", "source": "https://thegrounded.ghost.io/before-you-sign-up-for-outlier-ai-dont/"}
+      ]
+    },
+    {
+      "title": "Safety",
+      "items": [
+        {"text": "Using a VPN to hide that you are in a restricted country is not allowed.", "basis": "official", "source": "https://outlier.ai/legal/flexible-working-guidelines"},
+        {"text": "People sell Outlier accounts to workers in restricted countries. Buying one breaks the rules and ID checks are designed to catch it.", "basis": "reported", "source": "https://laptopandcoffee.com/outlier-ai-assessment/"}
+      ]
+    }
+  ]
+}

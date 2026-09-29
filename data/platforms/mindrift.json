@@ -1,0 +1,49 @@
+{
+  "id": "mindrift",
+  "name": "Mindrift",
+  "operator": "Toloka",
+  "website": "https://mindrift.ai",
+  "work": "Freelance AI trainer projects: writing prompts, rating and correcting AI answers, and expert tasks in fields such as coding, maths, writing and languages.",
+  "availability": {
+    "basis": "reported",
+    "default": "unclear",
+    "yes": [],
+    "no": [],
+    "unclear": [],
+    "account_opened": ["KE"],
+    "source": {
+      "title": "Mindrift job listing text (eligibility is set per listing)",
+      "url": "https://www.whynotremote.com/jobs/english-ai-trainer-writers-c98a8c13",
+      "checked": "2026-09-29"
+    },
+    "note": "Mindrift publishes no general country list. Each job listing names the country it is open to, and only people living there can apply. A worker in Kenya was able to open an account, but has not yet been paid, so Kenya is not confirmed."
+  },
+  "sections": [
+    {
+      "title": "Requirements",
+      "items": [
+        {"text": "Each listing is only for people currently living in the country it names, and your location can affect eligibility and rates.", "basis": "reported", "source": "https://www.whynotremote.com/jobs/english-ai-trainer-writers-c98a8c13"}
+      ]
+    },
+    {
+      "title": "Onboarding",
+      "items": [
+        {"text": "After you apply, the team reviews your CV. If you are a fit you take a short assessment, verify your identity through Persona, and are matched to projects when they open.", "basis": "official", "source": "https://mindrift.ai/blog/legit-mindrift"},
+        {"text": "Some projects are open to everyone on the platform. Specialised projects need expertise in areas like coding, maths or writing and usually pay more.", "basis": "official", "source": "https://mindrift.ai/blog/legit-mindrift"}
+      ]
+    },
+    {
+      "title": "Pay and payments",
+      "items": [
+        {"text": "You are paid for tasks you complete, not for time spent applying or waiting.", "basis": "official", "source": "https://mindrift.ai/blog/legit-mindrift"},
+        {"text": "Task availability goes up and down.", "basis": "official", "source": "https://mindrift.ai/blog/legit-mindrift"}
+      ]
+    },
+    {
+      "title": "Safety",
+      "items": [
+        {"text": "Joining is free. Mindrift says any offer that asks you for money is not Mindrift.", "basis": "official", "source": "https://mindrift.ai/blog/legit-mindrift"}
+      ]
+    }
+  ]
+}

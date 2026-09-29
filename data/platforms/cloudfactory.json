@@ -1,0 +1,42 @@
+{
+  "id": "cloudfactory",
+  "name": "CloudFactory",
+  "operator": "CloudFactory",
+  "website": "https://www.cloudfactory.com",
+  "work": "Managed-team AI data work, such as labelling medical X-rays, spotting roof damage for insurers and measuring forest cover, plus data annotation roles.",
+  "availability": {
+    "basis": "reported",
+    "default": "unclear",
+    "yes": ["KE", "UG"],
+    "no": [],
+    "unclear": [],
+    "source": {
+      "title": "AFP via Citizen Digital: Can Kenya attract the outsourcing jobs of the AI future? (July 2025)",
+      "url": "https://citizen.digital/article/can-kenya-attract-the-outsourcing-jobs-of-the-ai-future-n365976",
+      "checked": "2026-09-29"
+    },
+    "note": "CloudFactory has operated in Kenya since 2014, with about 130 staff and 3,000 freelancers reported in 2025. It also held a virtual recruitment open day for Uganda. Other African countries are unclear."
+  },
+  "sections": [
+    {
+      "title": "How it works",
+      "items": [
+        {"text": "CloudFactory recruits, hires, trains and oversees workers in teams, rather than running an open sign-up crowd.", "basis": "official", "source": "https://blog.cloudfactory.com/out-of-africa"},
+        {"text": "It posts full-time roles in Kenya, including General Data Annotation Specialist.", "basis": "reported", "source": "https://techjunction.co/?p=15943"}
+      ]
+    },
+    {
+      "title": "Applying",
+      "items": [
+        {"text": "Applications go through the CloudFactory careers portal on Workable.", "basis": "reported", "source": "https://techjunction.co/?p=15943"},
+        {"text": "Its Nairobi recruitment open days required registration, and only confirmed attendees received the venue details.", "basis": "reported", "source": "https://ke.linkedin.com/in/jonbeardsley"}
+      ]
+    },
+    {
+      "title": "Safety",
+      "items": [
+        {"text": "Real CloudFactory open days only share the venue with confirmed attendees. Be wary of anyone charging a fee to attend or to secure a place.", "basis": "note"}
+      ]
+    }
+  ]
+}

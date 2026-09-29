@@ -1,0 +1,42 @@
+{
+  "id": "micro1",
+  "name": "micro1",
+  "operator": "micro1",
+  "website": "https://www.micro1.ai",
+  "work": "Expert AI trainer roles: turning professional knowledge in fields like finance, healthcare, engineering and history into AI training data and evaluations.",
+  "availability": {
+    "basis": "reported",
+    "default": "unclear",
+    "yes": ["KE"],
+    "no": [],
+    "unclear": [],
+    "source": {
+      "title": "Corporate Staffing Kenya: micro1 AI trainer listings in Kenya",
+      "url": "https://www.corporatestaffing.co.ke/tag/ai-trainer-jobs-in-kenya/",
+      "checked": "2026-09-29"
+    },
+    "note": "micro1 publishes no country list we could find. Its AI trainer roles are advertised on a Kenyan job board, so Kenya is marked as reported. Each role sets its own requirements. Other African countries are unclear."
+  },
+  "sections": [
+    {
+      "title": "Applying",
+      "items": [
+        {"text": "You apply through micro1's Opportunities Portal. Each role has skill requirements set to match the client's needs.", "basis": "official", "source": "https://library.micro1.ai/"},
+        {"text": "Every applicant is interviewed by Zara, micro1's AI recruiter. You answer open questions out loud in real time, and the session is recorded for human recruiters to review.", "basis": "official", "source": "https://library.micro1.ai/"},
+        {"text": "Interviews last 20 to 40 minutes, about 7 minutes for each skill being tested.", "basis": "official", "source": "https://library.micro1.ai/"}
+      ]
+    },
+    {
+      "title": "Types of work",
+      "items": [
+        {"text": "Listed roles in Kenya include pattern recognition, finance, history and industrial engineering AI trainers, some part-time at around 10 hours a week.", "basis": "reported", "source": "https://www.corporatestaffing.co.ke/tag/ai-trainer-jobs-in-kenya/"}
+      ]
+    },
+    {
+      "title": "Safety",
+      "items": [
+        {"text": "Answers in the AI interview are recorded and reviewed by human recruiters, so answer in your own words.", "basis": "note"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "upwork",
+  "name": "Upwork",
+  "operator": "Upwork Global LLC",
+  "website": "https://www.upwork.com",
+  "work": "General freelance marketplace where clients post jobs, including AI training, data annotation, writing, translation and transcription work. You win work by sending proposals to clients.",
+  "availability": {
+    "basis": "official",
+    "default": "yes",
+    "yes": [],
+    "no": [],
+    "unclear": [],
+    "account_opened": [],
+    "source": {
+      "title": "Upwork Help: Who's eligible to join and use Upwork?",
+      "url": "https://support.upwork.com/hc/en-us/articles/211067778-Who-s-eligible-to-join-and-use-Upwork",
+      "checked": "2026-10-01"
+    },
+    "note": "Upwork's official list of restricted locations (Iran, North Korea, Cuba, Crimea, the Luhansk and Donetsk regions, plus Russia and Belarus) includes no African country. Upwork says this list can change when laws change."
+  },
+  "sections": [
+    {
+      "title": "Requirements",
+      "items": [
+        {"text": "You must be at least 18, or the age of majority in your country if that is higher, and you are responsible for any work authorization rules where you live.", "basis": "official", "source": "https://support.upwork.com/hc/en-us/articles/211067778-Who-s-eligible-to-join-and-use-Upwork"},
+        {"text": "Anyone suspended from Upwork in the past cannot work on the platform again, and new accounts they open will be closed.", "basis": "official", "source": "https://support.upwork.com/hc/en-us/articles/211067778-Who-s-eligible-to-join-and-use-Upwork"}
+      ]
+    },
+    {
+      "title": "Costs",
+      "items": [
+        {"text": "Sending a proposal uses Connects, virtual tokens that cost US$0.15 each and are sold in bundles. Upwork says some freelancers receive free Connects each month.", "basis": "official", "source": "https://support.upwork.com/hc/en-us/articles/211062898"}
+      ]
+    }
+  ]
+}

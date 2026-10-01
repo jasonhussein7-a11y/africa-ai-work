@@ -2,7 +2,7 @@
 
 var PLATFORMS = ['outlier', 'mercor', 'prolific', 'alignerr', 'remotasks',
   'crowdgen', 'mindrift', 'afterquery', 'oneforma', 'toloka',
-  'dataannotation', 'telus', 'clickworker', 'cloudfactory', 'micro1'];
+  'dataannotation', 'telus', 'clickworker', 'cloudfactory', 'micro1', 'upwork'];
 
 var STATUS = {
   yes: { label: 'Accepted', rank: 0 },

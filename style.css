@@ -183,7 +183,7 @@ select {
   padding: 12px 22px;
   font: inherit;
   font-weight: 600;
-  color: #ffffff;
+  color: var(--paper);
   background: var(--yes);
   border: 0;
   border-radius: 999px;

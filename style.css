@@ -175,3 +175,20 @@ select {
 .facts .meta { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
 
 .foot { max-width: 680px; margin: 0 auto; color: var(--ink-soft); font-size: 0.8rem; padding: 24px 16px 32px; }
+
+/* Install app button */
+.install-btn {
+  display: block;
+  margin: 24px auto 0;
+  padding: 12px 22px;
+  font: inherit;
+  font-weight: 600;
+  color: #ffffff;
+  background: var(--yes);
+  border: 0;
+  border-radius: 999px;
+  cursor: pointer;
+}
+.install-btn:hover { filter: brightness(1.08); }
+.install-btn:focus-visible { outline: 3px solid var(--link); outline-offset: 3px; }
+.install-btn[hidden] { display: none; }

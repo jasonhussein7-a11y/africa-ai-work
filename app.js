@@ -246,3 +246,28 @@ if ('serviceWorker' in navigator) {
 }
 
 start();
+
+/* Install app button */
+(function () {
+  var installBtn = document.getElementById('installBtn');
+  if (!installBtn) return;
+  var deferredPrompt = null;
+
+  window.addEventListener('beforeinstallprompt', function (e) {
+    e.preventDefault();
+    deferredPrompt = e;
+    installBtn.hidden = false;
+  });
+
+  installBtn.addEventListener('click', function () {
+    if (!deferredPrompt) return;
+    installBtn.hidden = true;
+    deferredPrompt.prompt();
+    deferredPrompt.userChoice.then(function () { deferredPrompt = null; });
+  });
+
+  window.addEventListener('appinstalled', function () {
+    installBtn.hidden = true;
+    deferredPrompt = null;
+  });
+})();

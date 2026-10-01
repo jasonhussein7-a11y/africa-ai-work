@@ -245,6 +245,17 @@ if ('serviceWorker' in navigator) {
   });
 }
 
+/* Preselect country from a shared link (?c=KE) */
+(function () {
+  try {
+    var c = new URLSearchParams(location.search).get('c');
+    if (c && /^[A-Za-z]{2}$/.test(c)) {
+      savePref('country', c.toUpperCase());
+      history.replaceState(null, '', location.pathname + location.hash);
+    }
+  } catch (e) { }
+})();
+
 start();
 
 /* Install app button */
@@ -282,5 +293,23 @@ start();
     installBtn.hidden = true;
     installHelp.hidden = true;
     deferredPrompt = null;
+  });
+})();
+
+/* WhatsApp share button */
+(function () {
+  var shareBtn = document.getElementById('shareBtn');
+  if (!shareBtn) return;
+  shareBtn.addEventListener('click', function () {
+    var url = location.origin + location.pathname;
+    var text;
+    if (country) {
+      url += '?c=' + encodeURIComponent(country);
+      text = 'Which AI work platforms accept workers in ' + countryName(country) + '? Free guide with sources: ';
+    } else {
+      text = 'Free guide: which AI work platforms accept workers from your African country? ';
+    }
+    if (location.hash && location.hash !== '#/') url += location.hash;
+    shareBtn.href = 'https://wa.me/?text=' + encodeURIComponent(text + url);
   });
 })();

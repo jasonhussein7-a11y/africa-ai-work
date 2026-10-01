@@ -201,3 +201,17 @@ select {
   font-size: 0.9rem;
 }
 .install-help[hidden] { display: none; }
+
+/* WhatsApp share button */
+.share-btn {
+  display: table;
+  margin: 12px auto 0;
+  padding: 10px 20px;
+  font-weight: 600;
+  color: var(--yes);
+  border: 2px solid var(--yes);
+  border-radius: 999px;
+  text-decoration: none;
+}
+.share-btn:hover { background: var(--yes); color: var(--paper); }
+.share-btn:focus-visible { outline: 3px solid var(--link); outline-offset: 3px; }

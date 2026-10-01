@@ -250,24 +250,37 @@ start();
 /* Install app button */
 (function () {
   var installBtn = document.getElementById('installBtn');
-  if (!installBtn) return;
+  var installHelp = document.getElementById('installHelp');
+  if (!installBtn || !installHelp) return;
   var deferredPrompt = null;
+
+  var isInstalled = window.matchMedia('(display-mode: standalone)').matches ||
+    window.navigator.standalone === true;
+  if (isInstalled) return;
+
+  var isIOS = /iphone|ipad|ipod/i.test(navigator.userAgent);
+  installBtn.hidden = false;
 
   window.addEventListener('beforeinstallprompt', function (e) {
     e.preventDefault();
     deferredPrompt = e;
-    installBtn.hidden = false;
   });
 
   installBtn.addEventListener('click', function () {
-    if (!deferredPrompt) return;
-    installBtn.hidden = true;
-    deferredPrompt.prompt();
-    deferredPrompt.userChoice.then(function () { deferredPrompt = null; });
+    if (deferredPrompt) {
+      deferredPrompt.prompt();
+      deferredPrompt.userChoice.then(function () { deferredPrompt = null; });
+      return;
+    }
+    installHelp.textContent = isIOS
+      ? 'On iPhone or iPad: tap the Share button, then "Add to Home Screen".'
+      : 'Open your browser menu (\u22EE), then tap "Install app" or "Add to Home screen".';
+    installHelp.hidden = false;
   });
 
   window.addEventListener('appinstalled', function () {
     installBtn.hidden = true;
+    installHelp.hidden = true;
     deferredPrompt = null;
   });
 })();
